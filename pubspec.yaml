@@ -10,12 +10,12 @@ dependencies:
   flutter:
     sdk: flutter
 
-  firebase_core: ^1.0.0
-  firebase_storage: ^8.0.0
-  sqflite: ^2.0.0+2
+  firebase_core: ^1.4.0
+  firebase_storage: ^10.0.1
+  sqflite: ^2.0.0+3
   path: ^1.8.0
-  path_provider: ^2.0.1
-  pedantic: ^1.11.0
+  path_provider: ^2.0.2
+  pedantic: ^1.11.1
 
 dev_dependencies:
   flutter_test:
